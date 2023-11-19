@@ -397,16 +397,16 @@ button {
   margin-bottom: 8px;
 }
 
+.overlay-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
 .overlay {
   display: flex;
   justify-content: center;
   color: #f4f4fd;
   background-color: #4d5ae5;
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   padding: 40px 32px;
   position: absolute;
   top: 0;
