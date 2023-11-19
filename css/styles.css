@@ -433,6 +433,14 @@ button {
   padding: 100px 0;
 }
 
+.page-footer-div {
+  display: flex;
+}
+
+.logotipe-div {
+  margin-right: 120px;
+}
+
 .footer-link {
   display: inline-block;
   margin-bottom: 16px;
@@ -447,4 +455,21 @@ button {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
+
+.social-media {
+  display: flex;
+  align-items: baseline;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-text {
+  padding-bottom: 16px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
 /*============================= FOOTER =========================*/
