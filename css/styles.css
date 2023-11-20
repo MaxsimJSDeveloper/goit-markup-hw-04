@@ -465,6 +465,7 @@ footer .container {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 16px;
 }
 
 .footer-social-list {
@@ -490,7 +491,7 @@ footer .container {
 
 .footer-social-list-link:hover,
 .footer-social-list-link:focus {
-  background-color: aqua;
+  background-color: #31d0aa;
 }
 
 /*============================= FOOTER =========================*/
