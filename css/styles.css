@@ -164,7 +164,7 @@ button {
 
 /* ================================ NAME =================================== */
 .section-name {
-  display: block;
+  display: flex;
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
@@ -178,7 +178,6 @@ button {
   background-position: center;
   background-size: cover;
   max-width: 1440px;
-  margin: 0 auto;
 }
 
 .name {
