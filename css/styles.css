@@ -164,7 +164,8 @@ button {
 
 /* ================================ NAME =================================== */
 .section-name {
-  display: flex;
+  display: block;
+  margin: 0 auto;
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
@@ -181,13 +182,14 @@ button {
 }
 
 .name {
+  display: block;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
-  margin-left: 0 auto;
+  margin: 0 auto;
 }
 
 /* ================================ NAME =================================== */
