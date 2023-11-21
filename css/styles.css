@@ -164,6 +164,7 @@ button {
 
 /* ================================ NAME =================================== */
 .section-name {
+  display: block;
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
