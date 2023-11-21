@@ -178,8 +178,7 @@ button {
   background-position: center;
   background-size: cover;
   max-width: 1440px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 .name {
@@ -189,8 +188,7 @@ button {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0 auto;
 }
 
 /* ================================ NAME =================================== */
